@@ -1,0 +1,11 @@
+
+{
+  "version": 1,
+  "intervalSeconds": 300,
+  "wallpapers": [
+    {
+      "name": "São Paulo",
+      "url": "cidade_sp.png"
+    }
+  ]
+}
